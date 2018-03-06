@@ -1,3 +1,0 @@
-/home/dima/CLionProjects/hashcode2/CMakeFiles/rebuild_cache.dir
-/home/dima/CLionProjects/hashcode2/CMakeFiles/hashcode2.dir
-/home/dima/CLionProjects/hashcode2/CMakeFiles/edit_cache.dir

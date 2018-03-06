@@ -1,0 +1,9 @@
+hashcode2
+cmake-build-debug
+/visual/out
+/.idea
+/CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+log.txt
+/out
